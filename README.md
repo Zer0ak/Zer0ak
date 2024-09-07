@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Zer0ak
-- 🌱 I’m currently learning JAVA/HTML and maybe C
+- 🌱 I’m currently learning HTML/CSS
+
 
 <!---
 Zer0ak/Zer0ak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
