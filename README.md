@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zer0ak
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning HTML/CSS , Java and more
 
 
 <!---
